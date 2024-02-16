@@ -4,7 +4,7 @@ I'm a Software Developer and Data Science Specialist with a passion for machine 
 
 ## 💡 Technical Skills
 **Languages:**
-- Python, C, C++, C#, HTML, CSS, Javascript, MATLAB, R
+- Python, C, C++, C#, HTML, CSS, Javascript, MATLAB, R, SQL
 
 **Libraries:**
 -  Python Libraries: 
