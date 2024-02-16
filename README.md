@@ -11,6 +11,7 @@ I'm a Software Developer and Data Science Specialist with a passion for machine 
     - TensorFlow, PyTorch, Scikit-learn, Pandas, OpenCV, OpenAI, Beautifulsoup
 - Frameworks:
     - .NET, React
+
 **Tools:**
 - Git, Docker, Jupyter
 
